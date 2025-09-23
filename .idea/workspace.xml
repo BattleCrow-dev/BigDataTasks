@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a078010e-47d5-4879-9ba4-4a9aa20f7616" name="Changes" comment="first practice">
-      <change afterPath="$PROJECT_DIR$/Practice_2/Data_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_2/recipeData.csv" afterDir="false" />
+    <list default="true" id="a078010e-47d5-4879-9ba4-4a9aa20f7616" name="Changes" comment="second practice">
+      <change afterPath="$PROJECT_DIR$/Practice_3/Bmi_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/Chi2_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/ECDCCases.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/ECDCCases_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/Insurance_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/bmi.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/insurance.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/1_FigureArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/1_FigureArea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/2_OperationApplying.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/2_OperationApplying.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/3_SquaredSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/3_SquaredSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/4_RepeatableSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/4_RepeatableSequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/5_DictionaryCreator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/5_DictionaryCreator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/6_Sklearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/6_Sklearn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/7_Morze.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/7_Morze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/8_RegistrationSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/8_RegistrationSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1/9_QueryHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_1/9_QueryHandler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +49,12 @@
     "Python.7_Morze.executor": "Run",
     "Python.8_RegistrationSystem.executor": "Run",
     "Python.9_QueryHandler.executor": "Run",
+    "Python.Bmi_analysis.executor": "Run",
+    "Python.Chi2_analysis.executor": "Run",
     "Python.Data_visualization.executor": "Run",
+    "Python.ECDCCases_analysis.executor": "Run",
     "Python.FigureArea.executor": "Run",
+    "Python.Insurance_analitic.executor": "Run",
     "Python.OperationApplying.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,6 +64,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\PythonProjects\BigDataTasks\Practice_3" />
       <recent name="W:\PythonProjects\BigDataTasks\Practice_2" />
     </key>
   </component>
@@ -91,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757086823840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second practice">
+      <option name="closed" value="true" />
+      <created>1757956976302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757956976302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="first practice" />
+    <MESSAGE value="second practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="second practice" />
   </component>
 </project>
