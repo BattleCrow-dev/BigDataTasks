@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a078010e-47d5-4879-9ba4-4a9aa20f7616" name="Changes" comment="second practice">
-      <change afterPath="$PROJECT_DIR$/Practice_3/Bmi_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/Chi2_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/ECDCCases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/ECDCCases_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/Insurance_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/bmi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_3/insurance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_4/beer_correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_4/car_correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_4/insurance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_4/insurance_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_4/recipeData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +54,20 @@
     "Python.FigureArea.executor": "Run",
     "Python.Insurance_analitic.executor": "Run",
     "Python.OperationApplying.executor": "Run",
+    "Python.beer_correlation.executor": "Run",
+    "Python.car_corelation.executor": "Run",
+    "Python.insurance_tests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "W:/PythonProjects/BigDataTasks/Practice_4"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\PythonProjects\BigDataTasks\Practice_4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="W:\PythonProjects\BigDataTasks\Practice_3" />
       <recent name="W:\PythonProjects\BigDataTasks\Practice_2" />
