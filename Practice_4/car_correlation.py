@@ -16,6 +16,4 @@ plt.xlabel("Количество машин на улице")
 plt.ylabel("Количество машин в гараже")
 plt.grid(True)
 plt.legend()
-
-# Показать окно с графиком
 plt.show()

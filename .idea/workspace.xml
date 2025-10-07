@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a078010e-47d5-4879-9ba4-4a9aa20f7616" name="Changes" comment="second practice">
-      <change afterPath="$PROJECT_DIR$/Practice_4/beer_correlation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_4/car_correlation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_4/insurance.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_4/insurance_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_4/recipeData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_5/beer_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_5/recipeData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_6/beer_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_6/recipeData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_4/beer_correlation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_4/beer_correlation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_4/car_correlation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_4/car_correlation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +55,23 @@
     "Python.FigureArea.executor": "Run",
     "Python.Insurance_analitic.executor": "Run",
     "Python.OperationApplying.executor": "Run",
+    "Python.beer_classification.executor": "Run",
+    "Python.beer_clustering.executor": "Run",
     "Python.beer_correlation.executor": "Run",
     "Python.car_corelation.executor": "Run",
+    "Python.car_correlation.executor": "Run",
     "Python.insurance_tests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "W:/PythonProjects/BigDataTasks/Practice_4"
+    "last_opened_file_path": "W:/PythonProjects/BigDataTasks/Practice_6"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\PythonProjects\BigDataTasks\Practice_6" />
+      <recent name="W:\PythonProjects\BigDataTasks\Practice_5" />
       <recent name="W:\PythonProjects\BigDataTasks\Practice_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">

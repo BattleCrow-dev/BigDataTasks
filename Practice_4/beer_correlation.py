@@ -12,7 +12,7 @@ num_df = df.select_dtypes(include=[np.number])
 # Заполняем пропуски средними
 num_df = num_df.fillna(num_df.mean())
 
-# === 2. Удаление выбросов по IBU и низких значений ===
+# Удаление выбросов по IBU и низких значений
 Q1 = num_df["IBU"].quantile(0.25)
 Q3 = num_df["IBU"].quantile(0.75)
 IQR = Q3 - Q1
@@ -28,13 +28,13 @@ clean_df = num_df[(num_df["IBU"] >= lower_bound) &
 print(f"Размер выборки до очистки: {len(num_df)}")
 print(f"Размер выборки после очистки: {len(clean_df)}")
 
-# === 3. Корреляционная матрица ===
+# === 2. Корреляционная матрица ===
 plt.figure(figsize=(10, 6))
 sns.heatmap(clean_df.corr(), cmap="coolwarm", center=0, annot=False)
 plt.title("Корреляционная матрица (после очистки)")
 plt.show()
 
-# === 4. Линейная регрессия ABV ~ IBU ===
+# === 3. Линейная регрессия ABV ~ IBU ===
 X = clean_df["IBU"].values
 y = clean_df["ABV"].values
 
@@ -54,7 +54,7 @@ y_pred = b0 + b1 * X
 mse = np.mean((y - y_pred)**2)
 print(f"MSE: {mse:.3f}")
 
-# === 5. Визуализация регрессии ===
+# === 4. Визуализация регрессии ===
 plt.figure(figsize=(8,6))
 plt.scatter(X, y, alpha=0.5, label="Данные (очищенные)")
 plt.plot(X, y_pred, color="red", label="Линия регрессии")
